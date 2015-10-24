@@ -1,0 +1,15 @@
+import javax.tools.JavaFileObject;
+
+
+public class OthelloGame {
+
+	
+	public void parse(JavaFileObject obj){
+		
+	}
+	
+	
+	public static void main(String[] args){
+		
+	}
+}
